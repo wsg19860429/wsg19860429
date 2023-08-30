@@ -1,0 +1,27 @@
+{ "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
+
+{ "url": "https://gitee.com/wsg429/ggg/raw/master/gg.json", "name": "gg" },
+
+{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
+
+{ "url": "http://肥猫.love", "name": "肥猫" },
+
+{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长js" },
+
+{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
+
+{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
+
+{ "url": "http://rihou.vip:88/荷城茶秀", "name": "荷城茶秀" },
+
+{ "url": "https://yydsys.top/duo", "name": "多多" },
+
+{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
+
+{ "url": "https://s2.pub/xymz", "name": "夜猫子" },
+
+{ "url": "https://s2.pub/shaoer", "name": "少儿频道" },
+
+{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
+
+{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" }]}
